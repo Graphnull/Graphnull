@@ -4,7 +4,6 @@
 
 
 <h3 align="left">Connect with me:</h3>
-<p align="left"><a href="https://github.com/graphnull" target="blank">Github</a></p>
 <p align="left"><a href="https://t.me/graphnull" target="blank">Telegram</a></p>
 <p align="left"><a href="https://www.instagram.com/graphnull" target="blank">Instagram</a></p>
 <p align="left"><a href="https://www.tiktok.com/@graphnull" target="blank">Tiktok</a></p>
@@ -13,6 +12,7 @@
 <p align="left"><a href="https://www.youtube.com/channel/UC-Muz8kWB3bVoKu_XX2ukAg" target="blank">Youtube</a></p>
 <p align="left"><a href="https://music.yandex.ru/users/v4silystepanov" target="blank">Yandex music</a></p>
 <p align="left"><a href="https://www.pinterest.ru/graphnull" target="blank">Pinterest</a></p>
+<p align="left"><a href="https://vk.com/graphnull" target="blank">Github</a></p>
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
   <a href="" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/1200px-Unofficial_JavaScript_logo_2.svg.png" alt="seaborn" width="40" height="40"/> </a>
