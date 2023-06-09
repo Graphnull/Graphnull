@@ -4,7 +4,7 @@
 
 
 <h3 align="left">Connect with me:</h3>
-<p align="left"><a href="https://t.me/stepanov" target="blank">Telegram</a></p>
+<p align="left"><a href="https://t.me/graphnull" target="blank">Telegram</a></p>
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
   <a href="" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/1200px-Unofficial_JavaScript_logo_2.svg.png" alt="seaborn" width="40" height="40"/> </a>
